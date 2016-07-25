@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Constructor and Destructor\ConstructorandDestructorExample\ConstructorandDestructorExample\bin\Debug\ConstructorandDestructorExample.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Constructor and Destructor\ConstructorandDestructorExample\ConstructorandDestructorExample\bin\Debug\ConstructorandDestructorExample.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Constructor and Destructor\ConstructorandDestructorExample\ConstructorandDestructorExample\bin\Debug\ConstructorandDestructorExample.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Constructor and Destructor\ConstructorandDestructorExample\ConstructorandDestructorExample\obj\Debug\ConstructorandDestructorExample.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Constructor and Destructor\ConstructorandDestructorExample\ConstructorandDestructorExample\obj\Debug\ConstructorandDestructorExample.Form1.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Constructor and Destructor\ConstructorandDestructorExample\ConstructorandDestructorExample\obj\Debug\ConstructorandDestructorExample.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Constructor and Destructor\ConstructorandDestructorExample\ConstructorandDestructorExample\obj\Debug\ConstructorandDestructorExample.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Constructor and Destructor\ConstructorandDestructorExample\ConstructorandDestructorExample\obj\Debug\ConstructorandDestructorExample.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Constructor and Destructor\ConstructorandDestructorExample\ConstructorandDestructorExample\obj\Debug\ConstructorandDestructorExample.pdb

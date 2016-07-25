@@ -1,0 +1,5 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Constructor and Destructor\StaticConstructor\StaticConstructor\bin\Debug\StaticConstructor.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Constructor and Destructor\StaticConstructor\StaticConstructor\bin\Debug\StaticConstructor.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Constructor and Destructor\StaticConstructor\StaticConstructor\bin\Debug\StaticConstructor.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Constructor and Destructor\StaticConstructor\StaticConstructor\obj\Debug\StaticConstructor.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Constructor and Destructor\StaticConstructor\StaticConstructor\obj\Debug\StaticConstructor.pdb

@@ -1,0 +1,5 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Constructor and Destructor\PrivateConstructor\PrivateConstructor\bin\Debug\PrivateConstructor.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Constructor and Destructor\PrivateConstructor\PrivateConstructor\bin\Debug\PrivateConstructor.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Constructor and Destructor\PrivateConstructor\PrivateConstructor\bin\Debug\PrivateConstructor.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Constructor and Destructor\PrivateConstructor\PrivateConstructor\obj\Debug\PrivateConstructor.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Constructor and Destructor\PrivateConstructor\PrivateConstructor\obj\Debug\PrivateConstructor.pdb
